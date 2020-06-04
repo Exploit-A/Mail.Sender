@@ -1,4 +1,6 @@
 # Mail.Sender
+Author: Exploit-A
+My telegram channel: https://t.me/exp1oited
 This repository will send sms from your mail to receiver's mail
 
 Installation:
