@@ -8,4 +8,5 @@ Installation:
 4. python mail-sender.py
 
 If you want to automate using this script, just write your data in *mail-sender.py*
+///
 Good luck! :)
