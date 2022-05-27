@@ -9,6 +9,6 @@ Installation:
 3. git clone https://github.com/Exploit-A/Mail.Sender.git
 4. python mail-sender.py
 
-If you want to automate using this script, just write your data in *mail-sender.py*
+If you want to automate sending your messages using this script, just write your data in *mail-sender.py*
 ///
 Good luck! :)
